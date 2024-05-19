@@ -3,14 +3,14 @@
 This is a simple Python program that generates a random number and compares it with the user's input. The user is prompted to guess the number, and the program provides feedback on whether the guess is too high, too low, or correct. The game continues until the user guesses the correct number or chooses to quit.
 
 ## Features
-- Generates a random number between 1 and 5.
+- Generates a random number between 1 and 10.
 - Prompts the user to guess the number or quit the game.
 - Provides feedback on whether the user's guess is too high, too low, or correct.
 - Ends the game when the user guesses correctly or decides to quit.
 
 ## How to Play
 1. Run the program.
-2. Enter your guess for the target number between 1 and 5.
+2. Enter your guess for the target number between 1 and 10.
 3. Receive feedback on whether your guess is too high, too low, or correct.
 4. Continue guessing until you get it right or type 'q' to quit.
 
