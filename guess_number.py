@@ -2,7 +2,7 @@
 
 import random
 
-target = random.randint(1, 5)
+target = random.randint(1, 10)
 
 while True:
     userChoice = input("Guess the target or Quit(q): ").lower()
