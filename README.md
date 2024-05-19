@@ -41,6 +41,11 @@ Success: Correct Guess!!.
 4
 ```
 
+## Error Handling
+
+- If the user inputs a non-numeric value (except 'q' to quit), the program catches the ValueError and prompts the user to enter a numeric value.
+- Ensures the program does not crash and provides a clear error message to the user.
+
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
