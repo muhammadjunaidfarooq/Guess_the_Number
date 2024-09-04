@@ -23,4 +23,4 @@ while True:
 
 print("---GAME OVER---")
 
-print(target)
+print(f"Computer Choice {target}")
